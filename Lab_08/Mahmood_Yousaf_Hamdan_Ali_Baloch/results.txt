@@ -1,0 +1,9 @@
+Avergae waiting time in FCFS for all processess is 22550.8407
+Turn around time in FCFS for all processess is 22555.3546
+Avergae Respose time in FCFS for all processess is 22550.8407
+Avergae waiting time in SJF for all processess is 16014.4289
+Turn around time in SJF for all processess is 16018.9428
+Avergae Respose time in SJF for all processess is 16014.4289
+Avergae waiting time in Priority for all processess is 16014.4296
+Turn around time in Priority for all processess is 16018.9435
+Avergae Respose time in Priority for all processess is 16014.4296
